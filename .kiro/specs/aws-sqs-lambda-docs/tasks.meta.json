@@ -1,0 +1,496 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Criar a estrutura de arquivos do Documentation_Set": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564099778
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564110312
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564167511
+      }
+    ],
+    "1.2 Escrever a introdução e o índice/sumário em `docs/index.md`": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564099970
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564171641
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564236937
+      }
+    ],
+    "2.1 Redigir o glossário compartilhado com uma entrada por termo": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564100158
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564172697
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564236147
+      }
+    ],
+    "3.1 Escrever a subseção \"Conceitos Principais\" do SQS": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564100314
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564241421
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564351499
+      }
+    ],
+    "3.2 Escrever a subseção \"Introdução / Implementação\" do SQS": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564100459
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564357910
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564486314
+      }
+    ],
+    "3.3 Escrever a subseção \"Dicas e Observações Importantes\" do SQS": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564100545
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564493239
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564649854
+      }
+    ],
+    "3.4 Escrever a subseção \"Limites e Cotas\" do SQS": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564100667
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564655098
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564728153
+      }
+    ],
+    "3.5 Escrever a subseção \"Segurança\" do SQS": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564100804
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564733346
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564828146
+      }
+    ],
+    "3.6 Escrever a subseção \"Considerações de Preço\" do SQS": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564100890
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564835260
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564911227
+      }
+    ],
+    "4. Checkpoint - Revisão parcial do SQS_Document": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564100966
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564927581
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565048944
+      }
+    ],
+    "5.1 Escrever a subseção \"Conceitos Principais\" do Lambda": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564101052
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564242805
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564352937
+      }
+    ],
+    "5.2 Escrever a subseção \"Introdução / Implementação\" do Lambda": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564101142
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564359162
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564487699
+      }
+    ],
+    "5.3 Escrever a subseção \"Dicas e Observações Importantes\" do Lambda": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564101216
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564494521
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564648856
+      }
+    ],
+    "5.4 Escrever a subseção \"Limites e Cotas\" do Lambda": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564101301
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564654210
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564727054
+      }
+    ],
+    "5.5 Escrever a subseção \"Segurança\" do Lambda": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564101390
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564732478
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564829180
+      }
+    ],
+    "5.6 Escrever a subseção \"Considerações de Preço\" do Lambda": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564101573
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564834316
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564912298
+      }
+    ],
+    "6. Checkpoint - Revisão parcial do Lambda_Document": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564101690
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564928478
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565050350
+      }
+    ],
+    "7.1 Escrever a subseção \"Event_Source_Mapping e Batching\"": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564101791
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564243603
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564353696
+      }
+    ],
+    "7.2 Escrever a subseção \"Tratamento de Erros e Idempotência\"": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564101886
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564360041
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564488732
+      }
+    ],
+    "8.1 Aplicar o modelo de citações (Citation) a fontes oficiais da AWS": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564101964
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564929802
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565052753
+      }
+    ],
+    "8.2 Aplicar o modelo de exemplos de código em blocos fenced": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564102057
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565057100
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565170651
+      }
+    ],
+    "8.3 Aplicar notas de verificação para valores voláteis e consistência terminológica": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564102156
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565175086
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565294472
+      }
+    ],
+    "9.1 Validar conformidade estrutural (V1)": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564102233
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565299134
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565385744
+      }
+    ],
+    "9.2 Validar citações e precisão (V2 e V5)": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564102313
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565389899
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565670489
+      }
+    ],
+    "9.3 Validar exemplos e terminologia (V3 e V4)": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564102397
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565675068
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565808818
+      }
+    ],
+    "10. Checkpoint final - Revisão completa": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564102543
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565823200
+      },
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565829168
+      }
+    ],
+    "2. Criar o glossário compartilhado (`docs/glossario.md`)": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564236234
+      }
+    ],
+    "1. Criar a estrutura de arquivos e o índice/introdução (index)": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564237078
+      }
+    ],
+    "7. Escrever o Integration_Document (`docs/integracao-sqs-lambda.md`)": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564488826
+      }
+    ],
+    "3. Escrever o SQS_Document (`docs/sqs.md`)": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564911383
+      }
+    ],
+    "5. Escrever o Lambda_Document (`docs/lambda.md`)": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790564912448
+      }
+    ],
+    "8. Aplicar as convenções transversais a todos os documentos": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565294696
+      }
+    ],
+    "9. Validação e revisão final (critérios V1–V5 do design)": [
+      {
+        "executionId": "84a25685-c414-4836-840f-6ea162049680",
+        "chatSessionId": "sess_f66c195a-7fbc-4cfa-a029-b008f3da3bc9",
+        "timestamp": 1790565808887
+      }
+    ]
+  }
+}
